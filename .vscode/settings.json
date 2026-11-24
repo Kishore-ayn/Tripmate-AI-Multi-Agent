@@ -15,5 +15,7 @@
             "database": "tri_h8iu",
             "username": "tri_h8iu_user"
         }
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
